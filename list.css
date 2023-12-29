@@ -12,3 +12,9 @@
 --home-icon: url(https://clearvision.github.io/icons/discord.svg);
 --home-position: center;
 --home-size: 40px;
+
+.bg__12180{
+    background:var(--background-color, #0066cc)
+    var(--background-image, url(https://saltssaumure.github.io/xp-discord-theme/img/bliss.avif))
+    center/cover
+}
