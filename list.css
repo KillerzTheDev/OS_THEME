@@ -8,3 +8,7 @@
 [class^=expandedFolderIconWrapper] svg {
   transform: rotate(90deg);
 }
+
+--home-icon: url(https://clearvision.github.io/icons/discord.svg);
+--home-position: center;
+--home-size: 40px;
